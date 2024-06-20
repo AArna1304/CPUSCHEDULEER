@@ -2,7 +2,7 @@
 CPU_SCHEDULER
 This project aims to implement a sophisticated CPU scheduler in C++ that demonstrates the effectiveness of different scheduling algorithms through a graphical frontend interface.
 
-#How to run 
+# How to run 
  - Clone the repository. (git clone website name)
   - `npm install`
   - Start the backend server:
